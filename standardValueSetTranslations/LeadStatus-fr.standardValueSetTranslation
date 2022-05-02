@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>New</masterLabel>
+        <translation>Nouvelle</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Nurturing</masterLabel>
+        <translation>Nourrir</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Qualified</masterLabel>
+        <translation>Qualifié</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Unqualified</masterLabel>
+        <translation>Sans réserve</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Working</masterLabel>
+        <translation>Travail</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

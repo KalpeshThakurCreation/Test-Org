@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Bank Transfer</masterLabel>
+        <translation>Virement</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Call Back</masterLabel>
+        <translation>Rappeler</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Canceled</masterLabel>
+        <translation>Annulé</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Completed</masterLabel>
+        <translation>Complété</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Confirmed</masterLabel>
+        <translation>Confirmé</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Connected</masterLabel>
+        <translation>Lié</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Donation</masterLabel>
+        <translation>Don</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email</masterLabel>
+        <translation>E-mail</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Gift Aid Updated</masterLabel>
+        <translation>Aide-cadeau mise à jour</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Never Answered</masterLabel>
+        <translation>Jamais répondu</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>No Answer</masterLabel>
+        <translation>Pas de réponse</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>No-Show</masterLabel>
+        <translation>Non-présentation</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Not Interested</masterLabel>
+        <translation>Pas intéressé</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Number Not In Service</masterLabel>
+        <translation>Numéro hors service</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Other</masterLabel>
+        <translation>Autre</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Payment Plan</masterLabel>
+        <translation>Plan de paiement</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Prospect</masterLabel>
+        <translation>Perspective</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Rejected</masterLabel>
+        <translation>Rejeté</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Responded</masterLabel>
+        <translation>A répondu</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Sent</masterLabel>
+        <translation>Expédié</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>To Call</masterLabel>
+        <translation>Appeler</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Voicemail</masterLabel>
+        <translation>Messagerie vocale</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Will Donate Online</masterLabel>
+        <translation>Fera un don en ligne</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Wrong Number</masterLabel>
+        <translation>Mauvais numéro</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

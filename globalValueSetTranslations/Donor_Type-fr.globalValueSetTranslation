@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Corporate</masterLabel>
+        <translation>Entreprise</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Government</masterLabel>
+        <translation>Gouvernement</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>HA Partner</masterLabel>
+        <translation>Partenaire haute disponibilité</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>International NGO</masterLabel>
+        <translation>ONG internationale</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Private Individual</masterLabel>
+        <translation>Privé individuel</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Public</masterLabel>
+        <translation>Publique</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Strategic Partners</masterLabel>
+        <translation>Partenaires stratégiques</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Trust &amp; Foundation</masterLabel>
+        <translation>Confiance &amp; Fondation</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>UN agency</masterLabel>
+        <translation>Agence des Nations Unies</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

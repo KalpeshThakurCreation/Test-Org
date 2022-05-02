@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>AR</masterLabel>
+        <translation>RA</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>All</masterLabel>
+        <translation>Tout</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ES</masterLabel>
+        <translation><!-- ES --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>FR</masterLabel>
+        <translation>EN</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>IE</masterLabel>
+        <translation>C&apos;EST À DIRE</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>UK</masterLabel>
+        <translation>Royaume-Uni</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

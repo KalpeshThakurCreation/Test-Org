@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Additional_Monthly_Description</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Additional Monthly Description</shortDescription>
+        <value>.</value>
+    </labels>
+    <labels>
+        <fullName>Card_Payment</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Card Payment</shortDescription>
+        <value>Card Payment</value>
+    </labels>
+    <labels>
+        <fullName>Checkout</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Checkout</shortDescription>
+        <value>Checkout</value>
+    </labels>
+    <labels>
+        <fullName>Chekout_Page_Title</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Chekout Page Title</shortDescription>
+        <value>Payment Setup | Human Appeal</value>
+    </labels>
+    <labels>
+        <fullName>Confirm_Payment_Button</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Confirm Payment Button</shortDescription>
+        <value>CONFIRM PAYMENT METHOD</value>
+    </labels>
+    <labels>
+        <fullName>Donation_Card_Setup</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Donation Card Setup</shortDescription>
+        <value>Donation Card Setup</value>
+    </labels>
+    <labels>
+        <fullName>Donation_Card_Setup_Single</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Donation Card Setup Single</shortDescription>
+        <value>Pay via Card</value>
+    </labels>
+    <labels>
+        <fullName>Enable_recurring_donations</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Enable recurring donations</shortDescription>
+        <value>We need to take your card details to enable your recurring donations</value>
+    </labels>
+    <labels>
+        <fullName>HA_ErrorMessage_OrphanProfilePhotoRequired</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HA_ErrorMessage_OrphanProfilePhotoRequired</shortDescription>
+        <value>Please uncheck the ‘Active’ field on this form, then check it back again on the next page after uploading orphan’s ‘Profile Photo’</value>
+    </labels>
+    <labels>
+        <fullName>HA_Request_to_attach_CHY3_Form</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HA_Request to attach CHY3 Form</shortDescription>
+        <value>Please Attach the CHY3 Form</value>
+    </labels>
+    <labels>
+        <fullName>Make_another_donation</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Make another donation</shortDescription>
+        <value>Make another donation</value>
+    </labels>
+    <labels>
+        <fullName>NotSupportedMessage</fullName>
+        <categories>RecordDetailView</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NotSupportedMessage</shortDescription>
+        <value>Not Supported Message</value>
+    </labels>
+    <labels>
+        <fullName>Payment_Option_Card</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Payment Option Card</shortDescription>
+        <value>Card Payment</value>
+    </labels>
+    <labels>
+        <fullName>Payment_Option_Direct_Debit</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Payment Option Direct Debit</shortDescription>
+        <value>Direct Debit</value>
+    </labels>
+    <labels>
+        <fullName>Payment_Setup</fullName>
+        <categories>Chekout Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Payment Setup</shortDescription>
+        <value>Payment Setup</value>
+    </labels>
+</CustomLabels>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>10 Nights</masterLabel>
+        <translation>10 Nuits</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>10D</masterLabel>
+        <translation><!-- 10D --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>27 Night</masterLabel>
+        <translation>27 Nuit</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>30 Days</masterLabel>
+        <translation>30 jours</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>30 Nights</masterLabel>
+        <translation>30 Nuits</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>EMI</masterLabel>
+        <translation><!-- EMI --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Recurring Annually</masterLabel>
+        <translation>Récurrent annuellement</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Recurring Monthly</masterLabel>
+        <translation>Mensuel récurrent</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Single</masterLabel>
+        <translation>Seul</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Weekly</masterLabel>
+        <translation>Hebdomadaire</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

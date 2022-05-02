@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Aatif Nawaz</masterLabel>
+        <translation><!-- Aatif Nawaz --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Ajmal Masroor</masterLabel>
+        <translation>Ajmal Masrou</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Ali Official Productions Ltd</masterLabel>
+        <translation><!-- Ali Official Productions Ltd --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Atif Aslam</masterLabel>
+        <translation><!-- Atif Aslam --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Bryant Preacher Moss</masterLabel>
+        <translation>Mousse de prédicateur de Bryant</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Colin Nell</masterLabel>
+        <translation><!-- Colin Nell --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Common Souls</masterLabel>
+        <translation>Âmes communes</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Dr. Reda Bedeir</masterLabel>
+        <translation>Dr Reda Bedeir</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Faraz Yousufzai</masterLabel>
+        <translation>Faraz Yousufzaï</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Fatiha El-Ghorri</masterLabel>
+        <translation><!-- Fatiha El-Ghorri --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Guzzy Bear Entertainment Limited</masterLabel>
+        <translation>Guzzy Bear Entertainment Limitée</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>JEREMY MCLELLAN</masterLabel>
+        <translation>JÉRÉMY MCLELLAN</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Kamal Uddin</masterLabel>
+        <translation><!-- Kamal Uddin --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Khaled Siddique</masterLabel>
+        <translation><!-- Khaled Siddique --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Khalid Belrhouzi</masterLabel>
+        <translation><!-- Khalid Belrhouzi --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Mikhaael Mala</masterLabel>
+        <translation>Mikhaaël Mala</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Modest Street Fashion - Aisha Rahman</masterLabel>
+        <translation>Mode de rue modeste - Aisha Rahman</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Mufti Liaquat Zaman</masterLabel>
+        <translation><!-- Mufti Liaquat Zaman --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Navaid Aziz Consulting INC</masterLabel>
+        <translation>Aide à la navigation Aziz Consulting INC</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Omar Esa</masterLabel>
+        <translation><!-- Omar Esa --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Shaykh AbdulJabbar</masterLabel>
+        <translation>Cheikh Abdul Jabbar</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Sheikh AbdulMajid Iltaf</masterLabel>
+        <translation>Cheikh Abdul Majid Iltaf</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Sheikh Issa Mahmoud Salem Hayajneh</masterLabel>
+        <translation>Cheikh Issa Mahmoud Salem Hayajneh</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Sheikh Oussama Idrissi</masterLabel>
+        <translation>Cheikh Oussama Idrissi</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Sukh Ojla</masterLabel>
+        <translation>Soukh Ojla</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

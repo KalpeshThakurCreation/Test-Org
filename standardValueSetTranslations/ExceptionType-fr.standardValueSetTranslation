@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>OM Apply Failed</masterLabel>
+        <translation>Échec de l&apos;application OM</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>OM Capture Failed</masterLabel>
+        <translation>Échec de la capture OM</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>OM Refund Failed</masterLabel>
+        <translation>Échec du remboursement OM</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>BestCaseForecast</masterLabel>
+        <translation>Meilleure prévision des cas</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BestCaseOnly</masterLabel>
+        <translation><!-- BestCaseOnly --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ClosedOnly</masterLabel>
+        <translation>FerméSeulement</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CommitForecast</masterLabel>
+        <translation><!-- CommitForecast --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CommitOnly</masterLabel>
+        <translation><!-- CommitOnly --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>OmittedOnly</masterLabel>
+        <translation>Omis uniquement</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>OpenPipeline</masterLabel>
+        <translation><!-- OpenPipeline --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PipelineOnly</masterLabel>
+        <translation>Pipeline uniquement</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>By Email</masterLabel>
+        <translation>Par email</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>DMS Data</masterLabel>
+        <translation>Données SGD</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>DMS and Mailchimp Data</masterLabel>
+        <translation>Données DMS et Mailchimp</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>From Pardot</masterLabel>
+        <translation>De Pardot</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>From the Service Announcement</masterLabel>
+        <translation>De l&apos;annonce de service</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Informed Donor Care Team</masterLabel>
+        <translation>Équipe de soins aux donneurs informés</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Mailchimp Data</masterLabel>
+        <translation>Données Mailchimp</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Verbally</masterLabel>
+        <translation>Verbalement</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Via Website</masterLabel>
+        <translation>Via le site Web</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

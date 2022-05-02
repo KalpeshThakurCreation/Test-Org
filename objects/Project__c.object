@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>HA_Project_Record_Page</content>
+        <formFactor>Large</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>HA_Project_Record_Page</content>
+        <formFactor>Small</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Track Projects</description>
+    <enableActivities>false</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>false</enableHistory>
+    <enableLicensing>false</enableLicensing>
+    <enableReports>true</enableReports>
+    <enableSearch>true</enableSearch>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <externalSharingModel>ReadWrite</externalSharingModel>
+    <fields>
+        <fullName>Actual_to_date_Boys__c</fullName>
+        <description>Actual number of achieved target (boys)</description>
+        <externalId>false</externalId>
+        <label>Actual to date-Boys</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Actual_to_date_Girls__c</fullName>
+        <description>Actual number of beneficiaries achieved (girls)</description>
+        <externalId>false</externalId>
+        <label>Actual to date-Girls</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Actual_to_date_Households__c</fullName>
+        <description>Actual number of beneficiaries achieved (households)</description>
+        <externalId>false</externalId>
+        <label>Actual to date-Households</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Actual_to_date_Indirect_Beneficiaries__c</fullName>
+        <description>Actual number of indirect beneficiaries achieved</description>
+        <externalId>false</externalId>
+        <inlineHelpText>How many indirect beneficiaries are expected on completion?</inlineHelpText>
+        <label>Actual to date-Indirect Beneficiaries</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Actual_to_date_Individuals__c</fullName>
+        <description>Actual number of achieved individuals</description>
+        <externalId>false</externalId>
+        <label>Actual to date-Individuals</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Actual_to_date_Men__c</fullName>
+        <description>Actual number of achieved Men</description>
+        <externalId>false</externalId>
+        <label>Actual to date-Men</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Actual_to_date_Women__c</fullName>
+        <description>Actual number of achieved women</description>
+        <externalId>false</externalId>
+        <label>Actual to date-Women</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Attachment_type__c</fullName>
+        <description>uploaded Document type</description>
+        <externalId>false</externalId>
+        <label>Attachment type</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>type1</fullName>
+                    <default>false</default>
+                    <label>type1</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Comments__c</fullName>
+        <externalId>false</externalId>
+        <label>Comments</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Contract_Signed_Date__c</fullName>
+        <description>Project contract signing date</description>
+        <externalId>false</externalId>
+        <label>Contract Signed Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Core_Theme__c</fullName>
+        <description>Core theme of the project</description>
+        <externalId>false</externalId>
+        <label>Core Theme</label>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Core_Theme</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Country__c</fullName>
+        <externalId>false</externalId>
+        <label>Country</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Country</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Donor_Contribution__c</fullName>
+        <description>Donor contribution in GBP</description>
+        <externalId>false</externalId>
+        <inlineHelpText>GBP only</inlineHelpText>
+        <label>Donor Contribution (£)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Donor_Currency__c</fullName>
+        <description>Currency in which the donor transfer fund</description>
+        <externalId>false</externalId>
+        <label>Donor Currency</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Currency</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Donor_Funding_Percent__c</fullName>
+        <description>Donor Funding % - Total Funding (Total Allocation) / Funding Required</description>
+        <externalId>false</externalId>
+        <formula>(Total_Funding__c /  Funding_Required__c) * 100</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Donor Funding %</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Donor_Funding__c</fullName>
+        <description>Percentage of donor contribution/fund</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Donor Funding %</inlineHelpText>
+        <label>Donor Funding</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>Donor_Payment_Up_to_date__c</fullName>
+        <externalId>false</externalId>
+        <label>Donor Payment Up-to-date?</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>No</fullName>
+                    <default>false</default>
+                    <label>No</label>
+                </value>
+                <value>
+                    <fullName>Yes</fullName>
+                    <default>false</default>
+                    <label>Yes</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Donor_Report_Up_to_date__c</fullName>
+        <externalId>false</externalId>
+        <label>Donor Report Up-to-date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>No</fullName>
+                    <default>false</default>
+                    <label>No</label>
+                </value>
+                <value>
+                    <fullName>Yes</fullName>
+                    <default>false</default>
+                    <label>Yes</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Exchange_Rate__c</fullName>
+        <externalId>false</externalId>
+        <label>Exchange Rate</label>
+        <precision>6</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Field_Actual_Expenditure__c</fullName>
+        <description>Actual amount spent by field office against the project</description>
+        <externalId>false</externalId>
+        <inlineHelpText>GBP Only</inlineHelpText>
+        <label>Field Actual Expenditure (£)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Field_Report_Up_to_date__c</fullName>
+        <description>Project Report received from implementing office</description>
+        <externalId>false</externalId>
+        <label>Field Report Up-to-date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>No</fullName>
+                    <default>false</default>
+                    <label>No</label>
+                </value>
+                <value>
+                    <fullName>Yes</fullName>
+                    <default>false</default>
+                    <label>Yes</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Funded_by__c</fullName>
+        <deleteConstraint>Restrict</deleteConstraint>
+        <description>Project donor or funded by.</description>
+        <externalId>false</externalId>
+        <label>Funded by</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Projects (Funded by)</relationshipLabel>
+        <relationshipName>Projects_funded_by</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Funding_End_Date__c</fullName>
+        <description>End date of funding for the project</description>
+        <externalId>false</externalId>
+        <label>Funding End Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Funding_Required__c</fullName>
+        <description>Total amount funds required for the project</description>
+        <externalId>false</externalId>
+        <inlineHelpText>GBP only</inlineHelpText>
+        <label>Funding Required (£)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Funding_Urgency__c</fullName>
+        <externalId>false</externalId>
+        <label>Funding Urgency</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Emergency</fullName>
+                    <default>false</default>
+                    <label>Emergency</label>
+                </value>
+                <value>
+                    <fullName>Urgent</fullName>
+                    <default>false</default>
+                    <label>Urgent</label>
+                </value>
+                <value>
+                    <fullName>Ongoing commitment</fullName>
+                    <default>false</default>
+                    <label>Ongoing commitment</label>
+                </value>
+                <value>
+                    <fullName>Not urgent</fullName>
+                    <default>false</default>
+                    <label>Not urgent</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Funds_Transfer_to_Field__c</fullName>
+        <description>How much of funds transfer to field office for implementation of project</description>
+        <externalId>false</externalId>
+        <inlineHelpText>GBP Only</inlineHelpText>
+        <label>Funds Transfer to Field (£)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>HA_Contribution__c</fullName>
+        <description>How much amount Human appeal contributed in the project (in GBP only)</description>
+        <externalId>false</externalId>
+        <inlineHelpText>GBP only</inlineHelpText>
+        <label>HA Contribution (£)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>HQ_Contact__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Lookup to Contact (Record type: HA Employee). This person will be the focal person to be contacted for any query/updates.</description>
+        <externalId>false</externalId>
+        <label>HQ Contact</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>Projects</relationshipLabel>
+        <relationshipName>Projects_HQ_contact</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Implementing_Partner_Field_Office__c</fullName>
+        <deleteConstraint>Restrict</deleteConstraint>
+        <description>Project implementing partner or any field office</description>
+        <externalId>false</externalId>
+        <label>Implementing Partner / Field Office</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Projects</relationshipLabel>
+        <relationshipName>Projects</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Inkind_Value__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>GBP only</inlineHelpText>
+        <label>Inkind Value (£)</label>
+        <precision>12</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Intervention_deliverables__c</fullName>
+        <description>what does this intervention provide?</description>
+        <externalId>false</externalId>
+        <inlineHelpText>In simple terms, what does this intervention provide? E.g. provides 1,400 people in 2 villages with access to a solar-powered water pump:</inlineHelpText>
+        <label>Intervention deliverables</label>
+        <length>131072</length>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Is_Project_Delayed__c</fullName>
+        <description>Is the project is on track or delayed?</description>
+        <externalId>false</externalId>
+        <label>Is Project Delayed?</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>No</fullName>
+                    <default>false</default>
+                    <label>No</label>
+                </value>
+                <value>
+                    <fullName>Yes</fullName>
+                    <default>false</default>
+                    <label>Yes</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Main_Activity__c</fullName>
+        <description>Activity planned in this project</description>
+        <externalId>false</externalId>
+        <label>Main Activity</label>
+        <length>131072</length>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Min_Funding_Required__c</fullName>
+        <description>Minimum amount required to start the project</description>
+        <externalId>false</externalId>
+        <label>Min Funding Required (£)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>New_Start_Date__c</fullName>
+        <description>Conditional on &apos;Y&apos; in &apos;Is Project Delayed?&apos; field. New start date of project if delayed</description>
+        <externalId>false</externalId>
+        <label>New Start Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Next_Donor_Report_Due_Date__c</fullName>
+        <description>Due date of Donor report</description>
+        <externalId>false</externalId>
+        <label>Next Donor Report Due Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Next_Field_Report_Due_Date__c</fullName>
+        <description>Due date of  report from field office</description>
+        <externalId>false</externalId>
+        <label>Next Field Report Due Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Next_Payment_Amount_Currency__c</fullName>
+        <externalId>false</externalId>
+        <label>Next Payment Amount Currency</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Currency</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Next_Payment_Amount__c</fullName>
+        <externalId>false</externalId>
+        <label>Next Payment Amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Next_Payment_Due_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Next Payment Due Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Other_Theme__c</fullName>
+        <description>Themes of the project</description>
+        <externalId>false</externalId>
+        <label>Other Theme</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>MultiselectPicklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Themes</valueSetName>
+        </valueSet>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Planned_Boys__c</fullName>
+        <description>Number of planned boys to target</description>
+        <externalId>false</externalId>
+        <label>Planned-Boys</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Planned_Girls__c</fullName>
+        <description>Number of planned girls to target</description>
+        <externalId>false</externalId>
+        <label>Planned-Girls</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Planned_Households__c</fullName>
+        <description>Number of planned household to target</description>
+        <externalId>false</externalId>
+        <inlineHelpText>How many households/families are expected to benefit are expected on completion</inlineHelpText>
+        <label>Planned-Households</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Planned_Indirect_Beneficiaries__c</fullName>
+        <description>Number of planned in-direct beneficiaries  to target</description>
+        <externalId>false</externalId>
+        <inlineHelpText>How many indirect beneficiaries are expected on completion?</inlineHelpText>
+        <label>Planned-Indirect Beneficiaries</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Planned_Individuals__c</fullName>
+        <description>Number of planned individuals  to target</description>
+        <externalId>false</externalId>
+        <label>Planned-Individuals</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Planned_Men__c</fullName>
+        <description>Number of planned Men to target</description>
+        <externalId>false</externalId>
+        <label>Planned-Men</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Planned_Women__c</fullName>
+        <description>Number of planned women to target</description>
+        <externalId>false</externalId>
+        <label>Planned-Women</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Price_Handle__c</fullName>
+        <description>provide price handles for this intervention</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Please provide price handles for this intervention. E.g. £110 will provide one person with medical care.</inlineHelpText>
+        <label>Price Handle (£)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Problem_Statement__c</fullName>
+        <description>In brief, what is the problem that this intervention addresses? Please give a simple idea of the current situation and need</description>
+        <externalId>false</externalId>
+        <inlineHelpText>In brief, what is the problem that this intervention addresses? Please give a simple idea of the current situation and need</inlineHelpText>
+        <label>Problem Statement</label>
+        <length>131072</length>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Project_End_Date__c</fullName>
+        <description>End Date of project</description>
+        <externalId>false</externalId>
+        <label>Project End Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Project_Funding_Status__c</fullName>
+        <description>Funding status of project</description>
+        <externalId>false</externalId>
+        <label>Project Funding Status</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Awaiting funds (0% of funds received)</fullName>
+                    <default>false</default>
+                    <label>Awaiting funds (0% of funds received)</label>
+                </value>
+                <value>
+                    <fullName>Partially funded (10% to 50% of funds received)</fullName>
+                    <default>false</default>
+                    <label>Partially funded (10% to 50% of funds received)</label>
+                </value>
+                <value>
+                    <fullName>Almost fully funded (50% to 90% of funds received)</fullName>
+                    <default>false</default>
+                    <label>Almost fully funded (50% to 90% of funds received)</label>
+                </value>
+                <value>
+                    <fullName>Fully funded (90% or more of funds received)</fullName>
+                    <default>false</default>
+                    <label>Fully funded (90% or more of funds received)</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Project_ID__c</fullName>
+        <caseSensitive>false</caseSensitive>
+        <description>Project ID</description>
+        <externalId>true</externalId>
+        <label>Project ID</label>
+        <length>20</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
+        <fullName>Project_Location__c</fullName>
+        <description>Location of this project to be executed/implemented</description>
+        <externalId>false</externalId>
+        <label>Project Location</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Project_Output__c</fullName>
+        <description>What are the projected practical outputs?</description>
+        <externalId>false</externalId>
+        <inlineHelpText>What are the projected practical outputs? (This is usually different to the number of beneficiaries. E.g. 1 child-friendly space, 30 teachers trained, 4 mobile clinics opened)</inlineHelpText>
+        <label>Project Output</label>
+        <length>131072</length>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Project_Start_Date__c</fullName>
+        <description>Start Date of the project</description>
+        <externalId>false</externalId>
+        <label>Project Start Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Project_Status__c</fullName>
+        <description>Status of the project (i-e Active, Complete)</description>
+        <externalId>false</externalId>
+        <label>Project Status</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Active</fullName>
+                    <default>false</default>
+                    <label>Active</label>
+                </value>
+                <value>
+                    <fullName>Complete</fullName>
+                    <default>false</default>
+                    <label>Complete</label>
+                </value>
+                <value>
+                    <fullName>Not yet started</fullName>
+                    <default>false</default>
+                    <label>Not yet started</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Project_Theme_Code__c</fullName>
+        <description>Project code is the combination of Core them and Theme.</description>
+        <externalId>false</externalId>
+        <formula>IF( TEXT(Core_Theme__c) =&quot;Development&quot;,&quot;D&quot;, 
+   IF( TEXT(Core_Theme__c) =&quot;Humanitarian&quot;,&quot;H&quot;,
+       IF( TEXT(Core_Theme__c) =&quot;Special Request&quot;,&quot;R&quot;,
+            IF( TEXT(Core_Theme__c) =&quot;Seasonal&quot;,&quot;S&quot;,
+                IF( TEXT(Core_Theme__c) =&quot;Orphans Child Welfare&quot;,&quot;O&quot;, &quot;&quot;)
+)
+)
+)
+)
+
+&amp;
+IF( TEXT(Theme__c)  =&quot;Education&quot;,&quot;ED&quot;,
+   IF(TEXT(Theme__c)  =&quot;Food Aid&quot;,&quot;FA&quot;,
+      IF(TEXT(Theme__c)  =&quot;Food Security&quot;,&quot;FS&quot;,
+        IF(TEXT(Theme__c)  =&quot;Non Food Item&quot;,&quot;NF&quot;,
+            IF(TEXT(Theme__c)  =&quot;Health&quot;,&quot;HT&quot;,
+                IF(TEXT(Theme__c)  =&quot;WASH&quot;,&quot;WS&quot;,
+                    IF(TEXT(Theme__c)  =&quot;Livelihoods&quot;,&quot;LV&quot;,
+                       IF(TEXT(Theme__c)  =&quot;Protection&quot;,&quot;PR&quot;,
+                          IF(TEXT(Theme__c)  =&quot;Shelter&quot;,&quot;SH&quot;,
+                            IF(TEXT(Theme__c)  =&quot;Orphans Sponsorship&quot;,&quot;SP&quot;,
+                               IF(TEXT(Theme__c)  =&quot;Qurbani&quot;,&quot;QR&quot;,
+                                 IF(TEXT(Theme__c)  =&quot;Ramadan&quot;,&quot;RM&quot;,
+                                   IF(TEXT(Theme__c)  =&quot;Winter&quot;,&quot;WN&quot;,
+                                      IF(TEXT(Theme__c)  =&quot;Aqiqa&quot;,&quot;AQ&quot;,&quot;&quot;
+)
+)
+) 
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)</formula>
+        <inlineHelpText>DED. DFS. DHT. DLV, DWS, HED, HFA, HHT, HLV, HNF, HPR, HSH, HWS, OSP, RFD, RHT, RLV, RWS, SQR,SRM. SWN</inlineHelpText>
+        <label>Project Theme Code</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Project_Value_Donor_Currency__c</fullName>
+        <description>Value/amount  of the project in Donor contributed currency</description>
+        <externalId>false</externalId>
+        <label>Project Value (Donor Currency)</label>
+        <precision>12</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Project_Value__c</fullName>
+        <description>Value/amount  of the project in GBP</description>
+        <externalId>false</externalId>
+        <inlineHelpText>GBP only</inlineHelpText>
+        <label>Project Value (£)</label>
+        <precision>12</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Reason_for_delay__c</fullName>
+        <description>Reason why the project is delayed</description>
+        <externalId>false</externalId>
+        <label>Reason for delay</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Received_from_Donor__c</fullName>
+        <description>Received amount from donor in GBP</description>
+        <externalId>false</externalId>
+        <inlineHelpText>GBP only</inlineHelpText>
+        <label>Received from Donor (£)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Stage__c</fullName>
+        <description>Project stage (i-e Concept note, Approved, Marketing etc)</description>
+        <externalId>false</externalId>
+        <label>Stage</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Approved</fullName>
+                    <default>false</default>
+                    <label>Approved</label>
+                </value>
+                <value>
+                    <fullName>Archived</fullName>
+                    <default>false</default>
+                    <label>Archived</label>
+                </value>
+                <value>
+                    <fullName>Completed</fullName>
+                    <default>false</default>
+                    <label>Completed</label>
+                </value>
+                <value>
+                    <fullName>Concept Note</fullName>
+                    <default>false</default>
+                    <label>Concept Note</label>
+                </value>
+                <value>
+                    <fullName>Implementation</fullName>
+                    <default>false</default>
+                    <label>Implementation</label>
+                </value>
+                <value>
+                    <fullName>Marketing</fullName>
+                    <default>false</default>
+                    <label>Marketing</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Support__c</fullName>
+        <externalId>false</externalId>
+        <label>Support %</label>
+        <precision>14</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>Target_Population__c</fullName>
+        <description>Who is the target population? (i.e. gender, age group, social status)</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Who is the target population? (i.e. gender, age group, social status)</inlineHelpText>
+        <label>Target Population</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Theme__c</fullName>
+        <description>What is the theme of this project</description>
+        <externalId>false</externalId>
+        <label>Theme</label>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Themes</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Total_Funding__c</fullName>
+        <defaultValue>0.00</defaultValue>
+        <description>Total Funding - Rolled up from Total Allocations</description>
+        <externalId>false</externalId>
+        <label>Total Funding</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Type_of_Donor__c</fullName>
+        <description>What is the donor type (i-e Public, HA Partner, UN agency, Government, Trust etc)</description>
+        <externalId>false</externalId>
+        <label>Type of Donor</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Donor_Type</valueSetName>
+        </valueSet>
+    </fields>
+    <label>Project</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <listViews>
+        <fullName>All_Projects</fullName>
+        <columns>NAME</columns>
+        <columns>Core_Theme__c</columns>
+        <columns>Country__c</columns>
+        <columns>Project_ID__c</columns>
+        <columns>Project_Location__c</columns>
+        <columns>Project_Status__c</columns>
+        <columns>Project_Theme_Code__c</columns>
+        <columns>Stage__c</columns>
+        <columns>Type_of_Donor__c</columns>
+        <filterScope>Mine</filterScope>
+        <label>All Projects</label>
+    </listViews>
+    <nameField>
+        <label>Project Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Projects</pluralLabel>
+    <searchLayouts>
+        <customTabListAdditionalFields>Core_Theme__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Project_Status__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Project_ID__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Country__c</customTabListAdditionalFields>
+        <searchFilterFields>NAME</searchFilterFields>
+        <searchFilterFields>Project_ID__c</searchFilterFields>
+        <searchFilterFields>Project_Status__c</searchFilterFields>
+        <searchFilterFields>Core_Theme__c</searchFilterFields>
+        <searchResultsAdditionalFields>Project_ID__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Project_Status__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Core_Theme__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Country__c</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>Project_delayed</fullName>
+        <active>true</active>
+        <description>If project is delayed then New start date of project is required.</description>
+        <errorConditionFormula>AND( ISPICKVAL( Is_Project_Delayed__c , &quot;Yes&quot;) ,ISBLANK( New_Start_Date__c ), ISBLANK( Reason_for_delay__c ))</errorConditionFormula>
+        <errorDisplayField>New_Start_Date__c</errorDisplayField>
+        <errorMessage>Please enter Project New Start Date and Delay Reason</errorMessage>
+    </validationRules>
+    <visibility>Public</visibility>
+</CustomObject>

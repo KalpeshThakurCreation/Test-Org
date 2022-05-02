@@ -1,0 +1,37 @@
+<!--
+  @description       : 
+  @author            : Iamsfdeveloper
+  @group             : 
+  @last modified on  : 01-08-2021
+  @last modified by  : Iamsfdeveloper
+  Modifications Log 
+  Ver   Date         Author           Modification
+  1.0   11-20-2020   Iamsfdeveloper   Initial Version
+-->
+
+
+<aura:component implements="force:lightningQuickActionWithoutHeader,force:hasRecordId,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,forceCommunity:availableForAllPageTypes,lightning:actionOverride">
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    <aura:html tag="style">
+        .modal-container{
+        width:90% !important;
+        max-width:70rem;
+        }
+        .slds-dueling-list__options{
+            height: 6rem !important;
+        }
+    </aura:html>
+    <aura:attribute name="isDoneRendering" type="Boolean" default="false"/>
+    <lightning:workspaceAPI aura:id="workspace"/>
+    
+    <aura:attribute name="callRecord" type="Object"/>
+    <aura:attribute name="callRecordId" type="String" default=""/>
+    <aura:if isTrue="{!v.callRecordId != ''}">
+        <force:recordData aura:id="recordLoader"
+                          recordId="{!v.callRecordId}"
+                          fields="ContactId__c, CampaignId__c, CampaignMemberId__c" targetFields="{!v.callRecord}"/>
+    
+   	
+   </aura:if>
+    <c:newDonation recordId="{!v.recordId}" onopendonation="{!c.openDonationInSubtab}" campaignId="{!v.callRecord.CampaignId__c}" oncanceldonation="{!c.handleCanceAction}"/>
+</aura:component>

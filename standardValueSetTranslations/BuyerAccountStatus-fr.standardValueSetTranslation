@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Active</masterLabel>
+        <translation>actif</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Inactive</masterLabel>
+        <translation>Inactif</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>On Hold</masterLabel>
+        <translation>En attente</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Pending</masterLabel>
+        <translation>En attente</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

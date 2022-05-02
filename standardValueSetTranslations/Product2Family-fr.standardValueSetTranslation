@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Education</masterLabel>
+        <translation>Éducation</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Food</masterLabel>
+        <translation>Aliments</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>General</masterLabel>
+        <translation>Général</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Gifts</masterLabel>
+        <translation>Cadeaux</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Livelihoods</masterLabel>
+        <translation>Moyens de subsistance</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Medical</masterLabel>
+        <translation>Médical</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>None</masterLabel>
+        <translation>Rien</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Project</masterLabel>
+        <translation>Projet</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Special Emergency</masterLabel>
+        <translation>Urgence spéciale</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Special Request</masterLabel>
+        <translation>Demande spéciale</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Sponsorship</masterLabel>
+        <translation>Parrainage</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Unrestricted Fund</masterLabel>
+        <translation>Fonds sans restriction</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

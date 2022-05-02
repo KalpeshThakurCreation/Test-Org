@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Good</masterLabel>
+        <translation>Bon</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Poor</masterLabel>
+        <translation>Pauvre</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Satisfactory</masterLabel>
+        <translation>Satisfaisant</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Treatment Needed</masterLabel>
+        <translation>Traitement nécessaire</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

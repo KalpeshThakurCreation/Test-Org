@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Aqiqa</masterLabel>
+        <translation><!-- Aqiqa --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Education</masterLabel>
+        <translation>Éducation</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Food Aid</masterLabel>
+        <translation>Aide alimentaire</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Food Security</masterLabel>
+        <translation>La sécurité alimentaire</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Health</masterLabel>
+        <translation>Santé</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Livelihoods</masterLabel>
+        <translation>Moyens de subsistance</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Non Food Item</masterLabel>
+        <translation>Article non alimentaire</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Orphans Sponsorship</masterLabel>
+        <translation>Parrainage d&apos;orphelins</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Protection</masterLabel>
+        <translation>protection</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Qurbani</masterLabel>
+        <translation><!-- Qurbani --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Ramadan</masterLabel>
+        <translation><!-- Ramadan --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Shelter</masterLabel>
+        <translation>Abri</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>WASH</masterLabel>
+        <translation>LAVAGE</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Winter</masterLabel>
+        <translation>Hiver</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

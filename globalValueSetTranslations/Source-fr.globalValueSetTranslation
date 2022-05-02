@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Affiliate / partner marketing (including sponsorship)</masterLabel>
+        <translation>Marketing d&apos;affiliation / partenaire (y compris le parrainage)</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Call Centre</masterLabel>
+        <translation>Centre d&apos;appel</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Challenge</masterLabel>
+        <translation>Défi</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Collection – street, mosques</masterLabel>
+        <translation><!-- Collection – street, mosques --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Community Fundraising</masterLabel>
+        <translation>Collecte de fonds communautaire</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Display Direct</masterLabel>
+        <translation>Afficher directement</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email marketing</masterLabel>
+        <translation>Publicité par e-mail</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Events – Tours, Dinners, Challenges, Stalls</masterLabel>
+        <translation><!-- Events – Tours, Dinners, Challenges, Stalls --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>High Network Donor</masterLabel>
+        <translation>Donateur de réseau élevé</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>In Kind Donations</masterLabel>
+        <translation>Dons en nature</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Influencer</masterLabel>
+        <translation>Influenceur</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Institutional Funds</masterLabel>
+        <translation>Fonds institutionnels</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>International Offices</masterLabel>
+        <translation>Bureaux internationaux</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Leaflets / posters</masterLabel>
+        <translation>Dépliants / affiches</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Organic search</masterLabel>
+        <translation>Recherche Organique</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PPC</masterLabel>
+        <translation>CPC</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Paid search</masterLabel>
+        <translation>Recherche payante</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Partnerships</masterLabel>
+        <translation>Partenariats</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Peer to Peer</masterLabel>
+        <translation>D&apos;égal à égal</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Pledges</masterLabel>
+        <translation>Engagements</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Post – direct mail, door drops</masterLabel>
+        <translation><!-- Post – direct mail, door drops --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Radio Appeal</masterLabel>
+        <translation>Appel Radio</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Referral</masterLabel>
+        <translation>Référence</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Retail Shops</masterLabel>
+        <translation>Commerces de détail</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SMS</masterLabel>
+        <translation><!-- SMS --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Social media marketing –  Twitter</masterLabel>
+        <translation>Marketing des médias sociaux – Twitter</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Social media marketing – Facebook</masterLabel>
+        <translation>Marketing des médias sociaux – Facebook</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Social media marketing – Instagram</masterLabel>
+        <translation>Marketing des médias sociaux – Instagram</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Speaker</masterLabel>
+        <translation>Conférencier</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TV Live Appeal</masterLabel>
+        <translation>Appel en direct de la télévision</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third Party giving - Givebrite</masterLabel>
+        <translation>Dons à un tiers - Givebrite</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third party giving - Benevity</masterLabel>
+        <translation>Dons de tiers - Benevity</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third party giving - Charities Trust</masterLabel>
+        <translation>Dons de tiers - Charities Trust</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third party giving - Everyday hero</masterLabel>
+        <translation>Dons de tiers - Héros de tous les jours</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third party giving - Facebook Giving</masterLabel>
+        <translation>Dons à des tiers - Facebook Giving</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third party giving - Go Fund Me</masterLabel>
+        <translation>Dons de tiers - Go Fund Me</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third party giving - Just Giving</masterLabel>
+        <translation>Dons à des tiers - Just Giving</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third party giving - LaunchGood</masterLabel>
+        <translation>Dons de tiers - LaunchGood</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third party giving - Muslim Giving</masterLabel>
+        <translation>Dons à des tiers - Dons musulmans</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third party giving - Ramadhan Giving</masterLabel>
+        <translation>Dons à des tiers - Ramadan Giving</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Third party giving - Virgin Money</masterLabel>
+        <translation>Dons de tiers - Virgin Money</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Tour</masterLabel>
+        <translation><!-- Tour --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Unspecified Agency</masterLabel>
+        <translation>Agence non spécifiée</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Unspecified Bank Transfer</masterLabel>
+        <translation>Virement bancaire non spécifié</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Unspecified Other</masterLabel>
+        <translation>Autre non spécifié</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Volunteer Fundraising Event</masterLabel>
+        <translation>Événement de collecte de fonds pour les bénévoles</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Website (appeal / product landing page)</masterLabel>
+        <translation>Site Web (appel / page de destination du produit)</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Word Of Mouth</masterLabel>
+        <translation>Bouche à oreille</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

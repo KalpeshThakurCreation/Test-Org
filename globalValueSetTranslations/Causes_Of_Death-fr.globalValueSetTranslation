@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Accident</masterLabel>
+        <translation><!-- Accident --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Cancer</masterLabel>
+        <translation><!-- Cancer --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Heart Attack</masterLabel>
+        <translation>Attaque cardiaque</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Heart Failure</masterLabel>
+        <translation>Arrêt cardiaque</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Heat Stroke</masterLabel>
+        <translation>Coup de chaleur</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Hepatitis</masterLabel>
+        <translation>Hépatite</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Illness</masterLabel>
+        <translation>Maladie</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Kidney Failure</masterLabel>
+        <translation>Insuffisance rénale</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Killed</masterLabel>
+        <translation>Tué</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Liver Failure</masterLabel>
+        <translation>Insuffisance hépatique</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Natural Causes</masterLabel>
+        <translation>Causes naturelles</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Natural Disaster</masterLabel>
+        <translation>Catastrophe naturelle</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Stroke</masterLabel>
+        <translation>Accident vasculaire cérébral</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Suicide</masterLabel>
+        <translation><!-- Suicide --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Undetermined Causes</masterLabel>
+        <translation>Causes indéterminées</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Unspecified</masterLabel>
+        <translation>Non spécifié</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>War</masterLabel>
+        <translation>Guerre</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>
